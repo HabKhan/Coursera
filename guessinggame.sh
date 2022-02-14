@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 	
 
-	echo "Hello. You are now playing my guessing game"
+	echo "Hello. You  are now playing my guessing game"
 	
 
 	function tell 
